@@ -66,14 +66,14 @@ Edit the bot-authme-first.js file with your own settings:
 ```
 {
   "server": {
-    "host": "your.minecraft.server.ip",
-    "port": 25565,
-    "version": "1.20.4"
+    "host": "jorgitoelmensito.play.hosting",
+    "port": 25652,
+    "version": "1.21"
   },
   "bot": {
-    "username": "YourBotName",
+    "username": "botxd",
     "auth": "offline",
-    "authmePassword": "YourAuthMePassword"
+    "authmePassword": "contrasena67"
   },
   "serverCommands": {
     "enabled": true,
